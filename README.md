@@ -95,6 +95,13 @@
 
 ###
 
+<h3 align="left">🎓   Certifications :</h3>
+<div class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/PrFsfkcFRAm7jhjuJuR3ZA"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/PrFsfkcFRAm7jhjuJuR3ZA/image"></a></div>
+
+###
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
