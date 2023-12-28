@@ -107,7 +107,7 @@
 ###
 
 <div align="center">
-[![An image of @kulwindersingh07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kulwindersingh07)](https://holopin.io/@kulwindersingh07)
+<img src="https://holopin.me/kulwindersingh07"/>
 </div>
 
 ###
