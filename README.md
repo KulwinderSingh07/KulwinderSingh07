@@ -102,6 +102,16 @@
 
 ###
 
+<h3 align="left">Hacktoberfest Badges :</h3>
+
+###
+
+<div align="center">
+[![An image of @kulwindersingh07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kulwindersingh07)](https://holopin.io/@kulwindersingh07)
+</div>
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
